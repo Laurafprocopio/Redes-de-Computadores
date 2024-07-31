@@ -1,0 +1,29 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('imagem/background.jpg'); /* Adicione uma imagem de fundo se desejar */
+    background-size: cover;
+    color: #fff;
+    padding: 4rem 0;
+}
+
+.card-img {
+    object-fit: cover;
+    height: 100px; /* Ajuste a altura conforme necessário */
+}
+
+.carousel-inner p {
+    font-size: 1.25rem;
+}
+
+.carousel-item footer {
+    font-style: italic;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #f8f9fa;
+}
